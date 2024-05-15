@@ -1,3 +1,3 @@
 # Dashboard for Social media management.
 # Hii
-# home.html is the home page
+# home.html is the page.
